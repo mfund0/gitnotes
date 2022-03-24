@@ -1,5 +1,3 @@
-# gitnotes 
-#### A collection of my git learnings
 
 ### My typical git workflow
 List all local braches with the last commit info
