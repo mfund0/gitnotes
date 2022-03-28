@@ -13,7 +13,7 @@ git switch brach_name
 
 create a new branch from develop
 ```bash
-git checkout -b feature/9803-private-ep develop
+git checkout -b feature/1234 develop
 ```
 Make some changes 
 Commit the changes (stage them locally)
