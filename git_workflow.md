@@ -45,7 +45,7 @@ git push origin feature/1234
 # Remember Rebase current branch on top of the upstream 
 # tracking branch so you don't miss any upstream changes
 git pull --rebase
-git merge --no-ff my-feature-123
+git merge --no-ff feature/123
 git push
 ```
 - Once a PR is merged, Cleanup: Delete the remote and local branches
